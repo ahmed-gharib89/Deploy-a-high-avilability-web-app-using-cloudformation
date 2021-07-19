@@ -1,5 +1,6 @@
 # Deploy a high availability web app using cloudformation
 
+you can follow this [link](http://serve-webap-1jvfwqcekhg29-2124251324.us-east-1.elb.amazonaws.com) to check for the web app.
 ## Project overview
 
 in this project we will deploy a web application using cloudformation with the same inframation as the following diagram
